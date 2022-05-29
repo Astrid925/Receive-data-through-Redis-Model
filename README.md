@@ -1,0 +1,1 @@
+# Receive-data-through-Redis-Model
